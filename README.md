@@ -1,4 +1,4 @@
-# omarov-shamil.ru
+# mySiteOmarov
 **Создал себе** *сайт*, в дальнейшем еще будем её улучшать и развивать!
 
-> Demo - https://omarovfrontend.github.io/omarov-shamil.ru/
+> Demo - https://omarovfrontend.github.io/mySiteOmarov/
